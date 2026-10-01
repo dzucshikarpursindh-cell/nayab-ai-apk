@@ -1,0 +1,6 @@
+{
+  "name": "Nayab AI",
+  "description": "Aap Ka Apna Sindhi AI Assistant - Sindhi, Urdu, and English voice and chat assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
